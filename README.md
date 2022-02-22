@@ -8,4 +8,4 @@
 
 ## 🔗 Contact Me
 
-https://discord.c99.nl/widget/theme-1/ɪ'ʟʟ-𝐗𝐚𝐧𝐚𝐱#3236.png
+ Discord : ɪ'ʟʟ-𝐗𝐚𝐧𝐚𝐱#3236
