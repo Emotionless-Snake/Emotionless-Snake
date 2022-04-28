@@ -1,9 +1,8 @@
 ## 🤵 About Me
 
-- 👋 Hi, I’m @Emotionless-Snake My Friends Call Me Xanax
-- 👀 I’m interested in Security Works
-- 🌱 I’m currently learning Bug Bounty & Proggraming
--  ❗️ Self-Bots Are Baking...
+- 👋 Hi, I'm YounG Executioner
+- 👀 I’m interested in Pentest
+- 🌱 I’m currently learning Pentest & Front-end
 
 
 ## 🔗 Contact Me
