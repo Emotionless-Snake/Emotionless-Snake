@@ -8,4 +8,4 @@
 
 ## 🔗 Contact Me
 
-- Discord : ɪ'ʟʟ-𝐗𝐚𝐧𝐚𝐱#3236
+- Discord : 9o8#1791
