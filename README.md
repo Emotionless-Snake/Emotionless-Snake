@@ -79,7 +79,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=crr4vghxrg8w3d715y6m5nazt&cover_image=true&theme=default" /></div>  
 
 <br/>  
 
@@ -89,5 +88,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
