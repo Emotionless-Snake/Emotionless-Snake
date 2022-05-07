@@ -79,12 +79,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=crr4vghxrg8w3d715y6m5nazt&cover_image=true&theme=default" /></div>  
 
 <br/>  
@@ -92,11 +86,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=youngexecutioner&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-<div align="center"></div>
 <br />
 
 ----
