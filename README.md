@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm YOUNG_EXECUTIONER (also known as 9o8) , a pentest student and</div>  
+### <div align="center">I'm YOUNG_EXECUTIONER (also known as 9o8) , a pentest student</div>  
   
 
 - 🌱 I’m currently learning OWASP & Python  
